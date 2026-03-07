@@ -546,7 +546,7 @@
     "jlpt": "N5",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "駅の近くに新しいカフェができました。",
@@ -555,7 +555,7 @@
     "jlpt": "N4",
     "id": 62,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "雨が降りそうだから、傘を持って行こう。",
@@ -564,7 +564,7 @@
     "jlpt": "N4",
     "id": 63,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この漢字の読み方を教えてください。",
@@ -572,7 +572,7 @@
     "english": "Please tell me how to read this kanji.",
     "jlpt": "N5",
     "id": 64,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
